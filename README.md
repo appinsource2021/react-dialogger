@@ -1,3 +1,8 @@
+# NPM
+```jsunicoderegexp
+npm i react-dialogger
+```
+
 # react-araci - Custom Dialog Component Documentation
 
 This documentation explains the configuration of the Custom Dialog Component and how to customize it using initial options with the `useDialogOptions` function. `useDialogOptions` allows you to set the initial options to manage the dialog's appearance and behavior.
