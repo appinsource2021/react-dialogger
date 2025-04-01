@@ -1,0 +1,17 @@
+{
+  "name": "react-dialogger",
+  "version": "1.1.2",
+  "description": "This package is a continuation of the react-araci package. Due to an error, react-araci was removed, and it has been decided to continue under the new package name react-dialogger",
+  "main": "index.js",
+  "author": "Sueleyman Topaloglu",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash.isequal": "^4.5.0",
+    "notistack": "^3.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.6",
+    "react-icons": "^5.5.0"
+  }
+}
