@@ -1,6 +1,6 @@
 {
   "name": "react-dialogger",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "This package is a continuation of the react-araci package. Due to an error, react-araci was removed, and it has been decided to continue under the new package name react-dialogger",
   "main": "index.js",
   "author": "Sueleyman Topaloglu",
